@@ -1,0 +1,10 @@
+C:\Users\mfcortes.ENTEL\Desktop\ariel\apath\ASTARPath\ASTARPath\bin\Debug\ASTARPath.exe.config
+C:\Users\mfcortes.ENTEL\Desktop\ariel\apath\ASTARPath\ASTARPath\bin\Debug\ASTARPath.exe
+C:\Users\mfcortes.ENTEL\Desktop\ariel\apath\ASTARPath\ASTARPath\bin\Debug\ASTARPath.pdb
+C:\Users\mfcortes.ENTEL\Desktop\ariel\apath\ASTARPath\ASTARPath\obj\Debug\ASTARPath.Form1.resources
+C:\Users\mfcortes.ENTEL\Desktop\ariel\apath\ASTARPath\ASTARPath\obj\Debug\ASTARPath.Properties.Resources.resources
+C:\Users\mfcortes.ENTEL\Desktop\ariel\apath\ASTARPath\ASTARPath\obj\Debug\ASTARPath.csproj.GenerateResource.Cache
+C:\Users\mfcortes.ENTEL\Desktop\ariel\apath\ASTARPath\ASTARPath\obj\Debug\ASTARPath.exe
+C:\Users\mfcortes.ENTEL\Desktop\ariel\apath\ASTARPath\ASTARPath\obj\Debug\ASTARPath.pdb
+C:\Users\mfcortes.ENTEL\Desktop\ariel\apath\ASTARPath\ASTARPath\obj\Debug\ASTARPath.csprojAssemblyReference.cache
+C:\Users\mfcortes.ENTEL\Desktop\ariel\apath\ASTARPath\ASTARPath\obj\Debug\ASTARPath.csproj.CoreCompileInputs.cache
